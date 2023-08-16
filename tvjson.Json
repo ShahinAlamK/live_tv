@@ -1,4 +1,5 @@
 {
+[
     {
     "channel":"GTV",
     "link":"",
@@ -23,5 +24,6 @@
     "channel":"GTV",
     "link":"",
     "logo":""}
+]
     
 }
